@@ -1,11 +1,11 @@
 {
-  "name": "liveterm",
+  "name": "sakshamsud-homepage",
   "version": "0.1.0",
   "license": "MIT",
   "author": {
-    "name": "Vincent Wu",
+    "name": "Saksham Sud",
     "url": "https://cveinnt.com",
-    "email": "contact@wensenwu.com"
+    "email": "sakshamsud5@gmail.com"
   },
   "scripts": {
     "dev": "next dev",

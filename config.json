@@ -1,39 +1,34 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "Saksham Sud - Homepage",
+  "name": "Saksham Sud",
+  "ascii": "Saksham Sud",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "Geneticscrol",
+    "linkedin": "saksham-sud-a3bb341b0/"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "sakshamsud5@gmail.com",
+  "ps1_hostname": "website",
   "ps1_username": "visitor",
   "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
   "colors": {
     "light": {
-      "background": "#FBF1C9",
-      "foreground": "#3C3836",
-      "yellow": "#D79921",
-      "green": "#98971A",
+      "background": "#1A1A1A",
+      "foreground": "#F1F1F1",
+      "yellow": "#3D2AFF",
+      "green": "#7129FF",
       "gray": "#7C6F64",
-      "blue": "#458588",
-      "red": "#CA2124"
+      "blue": "#2B4FFF",
+      "red": "#A52AFF"
     },
     "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
-      "gray": "#88C0D0",
-      "blue": "#EBCB8B",
-      "red": "#BF616A"
+      "background": "#1A1A1A",
+      "foreground": "#F1F1F1",
+      "yellow": "#3D2AFF",
+      "green": "#7129FF",
+      "gray": "#7C6F64",
+      "blue": "#2B4FFF",
+      "red": "#A52AFF"
     }
   }
 }
